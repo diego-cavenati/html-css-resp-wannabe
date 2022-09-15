@@ -171,7 +171,8 @@ img {
     }
     .why-us {
         background-color: #222222;
-        padding-top: 3rem;
+        padding: 3rem 0;
+        margin-bottom: 0;
     }
     .why-us .row {
         flex-direction: column;
